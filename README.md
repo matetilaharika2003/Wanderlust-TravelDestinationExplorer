@@ -37,5 +37,13 @@ Click the link below to view a walkthrough of the Wanderlust web application:
 - **Media Storage (optional)**: Cloudinary
 
 
+    
+## 🖼️ **Screenshots**
+
+- **Home Page** 
+![Home Page](assets/screenshots/Homepage.png)
+
+
+
 
 
