@@ -34,7 +34,7 @@ Click the link below to view a walkthrough of the Wanderlust web application:
 - **Authentication**: Passport.js with sessions
 - **Templating Engine**: EJS & ejs-mate
 - **Cloud Hosting**: Render
-- **Media Storage (optional)**: Cloudinary
+- **Media Storage**: Cloudinary
 
 
     
