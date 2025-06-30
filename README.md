@@ -8,6 +8,12 @@ Wanderlust is a full-stack web application that allows users to explore, review,
 
 📌 Note: Render may take a few seconds to wake up the server.
 
+## 🎥 **Project Demo**
+
+Click the link below to view a walkthrough of the Wanderlust web application:
+
+👉 [Watch the Demo Video](https://drive.google.com/file/d/1W928SgBOYQuVE3yJY52LGSldLLv5prKv/view?usp=sharing)
+
 ## 🚀 Features
 
 - 🗺️ Browse and view travel listings
