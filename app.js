@@ -105,7 +105,9 @@ app.use("/listings", listingRouter);
 app.use("/listings/:id/reviews", reviewRouter);
 app.use("/", userRouter);
 
-
+app.get("/", (req, res) => {
+    res.redirect("/listings"); 
+});
 
 // Defined Express middleware
 app.all("*", (req, res, next) => {
