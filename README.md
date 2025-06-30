@@ -1,6 +1,6 @@
 # 🧭 Wanderlust – Travel Destination Explorer
 
-Wanderlust is a full-stack web application that allows users to explore, review, and list travel destinations. Built with **Node.js**, **Express**, **MongoDB**, and **EJS**, this app provides features like authentication, review system, and CRUD operations for travel listings.
+A full-stack travel destination web app to explore, list, and review beautiful places around the world.
 
 ## 🔗 Live Demo
 
