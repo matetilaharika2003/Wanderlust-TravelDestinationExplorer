@@ -42,6 +42,25 @@ Click the link below to view a walkthrough of the Wanderlust web application:
 
 - **Home Page** 
 ![Home Page](assets/screenshots/Homepage.png)
+- **Signup Page** 
+![signup Page](assets/screenshots/Signuppage.png)
+- **Login Page** 
+![login Page](assets/screenshots/Loginpage.png)
+- **NewListing Page** 
+![newlisting Page](assets/screenshots/NewListingpage.png)
+- **Editlisting Page** 
+![editlisting Page](assets/screenshots/EditListingpage.png)
+- **Reviews Page** 
+![reviews Page](assets/screenshots/Reviewspage.png)
+- **Mongodb Entry ** 
+![mongodb entry](assets/screenshots/Mongodbentry.png)
+- **Listings Entry ** 
+![listings entry](assets/screenshots/Listingsentry.png)
+- **Reviews Entry ** 
+![reviews entry](assets/screenshots/Reviewsentry.png)
+- **Session Store ** 
+![session store](assets/screenshots/Sessionstore.png)
+
 
 
 
